@@ -44,4 +44,4 @@ Another disadvantage is that my oral expression and listening are poor. But I am
 
 ### **End** 
 
-This is a project I really want to realize, and it will be of great help to my future development. At the same time, I think this belongs to your research field and the project needs your guidance. If you think there is any need for modification(for example, not only the software design, but also the algorithm can be innovative), I am willing to make adjustments. I hope you can guide me! 
+This is a project I really want to realize, and it will be of great help to my future development. If you think there is any need for modification(for example, not only the software design, but also the algorithm can be innovative), I am willing to make adjustments. I hope you can guide me! 
