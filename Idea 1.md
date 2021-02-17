@@ -22,7 +22,7 @@ In addition, after accumulating a certain user base, I have two user-friendly gr
 
 ### **Implementation of Recommendation System**
 
-I think it can be realized by **Bayesian Personalized Ranking (BPR)**, which is what you're interested in, and the core technology of the software. 
+I think it can be realized by **Bayesian Personalized Ranking (BPR)**, which is the core technology of the software. 
 
 Bayesian Personalized Ranking provides different ranking lists for different users and information, which is exactly what is needed for this project. As a pairwise approach, it also has better accuracy and robustness. 
 
