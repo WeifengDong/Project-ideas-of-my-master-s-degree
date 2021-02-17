@@ -14,7 +14,7 @@ I am faced with a job dilemma. I have various job communication groups and pay a
 
 So I wanted to make a comprehensive but lightweight job information platform. Crawler crawls and company releases are sources of information. The software could be an app or a WeChat app - as I don't know the job information situation in UK, I would like to target the project to the Chinese environment in the beginning. If you don't agree with this, I can learn more about job hunting in the UK or internationally afterwards. 
 
-Students during the job-seeking season or employees interested in jumping ship would be able to swipe job postings on a daily basis like they do on Tic Toc and Twitter. Of course they can also access it through search. After finding companies they are interested in, they use the contact information or links to take the next step. 
+Students during the job-seeking season or employees interested in jumping ship would be able to swipe job postings on a daily basis like they do on Tic Toc. Of course they can also access it through search. After finding companies they are interested in, they use the contact information or links to take the next step. 
 
 In addition, after accumulating a certain user base, I have two user-friendly growth and profit plans. This part has nothing to do with Bayes, so it's not going to expand. **I believe this is a project that is interesting in theory and feasible in reality.** 
 
