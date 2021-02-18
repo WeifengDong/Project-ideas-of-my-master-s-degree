@@ -16,7 +16,7 @@ So I wanted to make a comprehensive but lightweight job information platform. Cr
 
 Students during the job-seeking season or employees interested in jumping ship would be able to swipe job postings on a daily basis like they do on Tic Toc. Of course they can also access it through search. After finding companies they are interested in, they use the contact information or links to take the next step. 
 
-In addition, after accumulating a certain user base, I have two user-friendly growth and profit plans. This part has nothing to do with Bayes, so it's not going to expand. **I believe this is a project that is interesting in theory and feasible in reality.** 
+In addition, after accumulating a certain user base, I have two user-friendly growth and profit plans. This part is future work, so it's not going to expand. **I believe this is a project that is interesting in theory and feasible in reality.** 
 
  
 
